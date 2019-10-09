@@ -1,0 +1,11 @@
+C:\csharp\ar\arithmeticoperators\bin\Debug\netcoreapp3.0\arithmeticoperators.exe
+C:\csharp\ar\arithmeticoperators\bin\Debug\netcoreapp3.0\arithmeticoperators.deps.json
+C:\csharp\ar\arithmeticoperators\bin\Debug\netcoreapp3.0\arithmeticoperators.runtimeconfig.json
+C:\csharp\ar\arithmeticoperators\bin\Debug\netcoreapp3.0\arithmeticoperators.runtimeconfig.dev.json
+C:\csharp\ar\arithmeticoperators\bin\Debug\netcoreapp3.0\arithmeticoperators.dll
+C:\csharp\ar\arithmeticoperators\bin\Debug\netcoreapp3.0\arithmeticoperators.pdb
+C:\csharp\ar\arithmeticoperators\obj\Debug\netcoreapp3.0\arithmeticoperators.csprojAssemblyReference.cache
+C:\csharp\ar\arithmeticoperators\obj\Debug\netcoreapp3.0\arithmeticoperators.AssemblyInfoInputs.cache
+C:\csharp\ar\arithmeticoperators\obj\Debug\netcoreapp3.0\arithmeticoperators.AssemblyInfo.cs
+C:\csharp\ar\arithmeticoperators\obj\Debug\netcoreapp3.0\arithmeticoperators.dll
+C:\csharp\ar\arithmeticoperators\obj\Debug\netcoreapp3.0\arithmeticoperators.pdb
